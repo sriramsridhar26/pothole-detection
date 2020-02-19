@@ -1,0 +1,6 @@
+tensorflow-gpu==2.1
+keras
+imgaug
+opencv-python
+h5py
+flask
